@@ -1,0 +1,9 @@
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Release\KMM.exe.config
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Release\KMM.exe
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Release\KMM.pdb
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.Form1.resources
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.Properties.Resources.resources
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.csproj.GenerateResource.Cache
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.exe
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Release\KMM.pdb

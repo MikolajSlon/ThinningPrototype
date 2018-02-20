@@ -1,0 +1,10 @@
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Debug\KMM.exe.config
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Debug\KMM.exe
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\bin\Debug\KMM.pdb
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.csprojResolveAssemblyReference.cache
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.Form1.resources
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.Properties.Resources.resources
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.csproj.GenerateResource.Cache
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.exe
+C:\Users\Mikolaj\Documents\Projekty\KMM\KMM\obj\Debug\KMM.pdb
